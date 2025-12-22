@@ -8,5 +8,13 @@
     "percentToQualify": "100",
     "password": "",
     "records": [
+                {
+            "user": "biohazard",
+            "percent": 100
+        },
+        {
+            "user": "150IQPlayer",
+            "percent": 100
+        }
     ]
 }
